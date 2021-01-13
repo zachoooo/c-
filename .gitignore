@@ -1,0 +1,11 @@
+.vscode
+build/
+data/
+c-
+debug-c-
+*.tar
+*.c-
+tm
+*.tm
+*.exe
+*.out
